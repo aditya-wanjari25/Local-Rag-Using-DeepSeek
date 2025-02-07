@@ -4,7 +4,9 @@ This is a local implementation of DeepSeek with Ollama for a RAG application. Ch
 
 # Get Started
 * Download Ollama: https://ollama.com/download
-* Download DeekSeek Weights: https://ollama.com/library/deepseek-r1
+* Download DeepSeek Weights: https://ollama.com/library/deepseek-r1
 * Clone this repo. In a virtual environment download requirements
 * To run - ```streamlit run rag.py```
 
+# Preview
+![DeepSeek RAG Screenshot](assets/RagAppSS.png)
